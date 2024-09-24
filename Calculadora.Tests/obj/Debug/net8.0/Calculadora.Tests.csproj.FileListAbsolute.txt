@@ -1,0 +1,6 @@
+C:\Users\romer\OneDrive\Documentos\Bootcamp XP e DIO\Projetos\test-unitario\Calculadora.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Calculadora.Tests
+C:\Users\romer\OneDrive\Documentos\Bootcamp XP e DIO\Projetos\test-unitario\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.csproj.AssemblyReference.cache
+C:\Users\romer\OneDrive\Documentos\Bootcamp XP e DIO\Projetos\test-unitario\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romer\OneDrive\Documentos\Bootcamp XP e DIO\Projetos\test-unitario\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.AssemblyInfoInputs.cache
+C:\Users\romer\OneDrive\Documentos\Bootcamp XP e DIO\Projetos\test-unitario\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.AssemblyInfo.cs
+C:\Users\romer\OneDrive\Documentos\Bootcamp XP e DIO\Projetos\test-unitario\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.csproj.CoreCompileInputs.cache
